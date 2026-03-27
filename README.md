@@ -123,13 +123,5 @@ Este projeto foi desenvolvido com foco em demonstrar habilidades de um analista 
 * Interpretação de negócio
 * Estruturação de pipeline analítico
 
----
-
-## 📎 Contato
-
-Caso queira trocar ideias ou discutir o projeto:
-
-🔗 LinkedIn: (adicione aqui)
-📧 Email: (adicione aqui)
 
 ---
